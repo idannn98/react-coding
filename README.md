@@ -11,7 +11,7 @@ Read this file carefully 👁️
 
 &nbsp;
 # Requirements 📖
-The project starts with a compilation error, let's fix the error ands implement the following requirements.
+The project starts with a compilation error, let's fix the error and implement the following requirements.
 
 - Scroll to the bottom of the messages list when sending/receiving a message
 - Show the initial Botty message by default (can be found in `common/constants`)
