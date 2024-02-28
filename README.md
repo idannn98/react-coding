@@ -1,9 +1,11 @@
 # Gankster coding challenge
 
 Welcome to our coding challenge! Please read this file carefuly, as it contains all of the information you need.
+
 ![screenshot-desktop](https://puu.sh/Hp0C2/cb14e843de.png)
 
 Mobile view:
+
 <img alt="screenshot-mobile" width=400 src="https://puu.sh/HoYEw/9b760f91f7.png" />
 
 ## Starting conditions
